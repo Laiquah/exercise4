@@ -1,0 +1,36 @@
+blockquote{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+}
+
+font{
+    font-family: Arial, sans-serif;
+}
+
+p{
+    text-align: -webkit-center;
+}
+
+p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+font{
+    font-size: xx-large;
+}
+
+font{
+    font-size: small;
+}
+
+font{
+    font-size: small;
+}
+
